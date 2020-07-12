@@ -1,0 +1,15 @@
+[submodule "gateway"]
+	path = gateway
+	url = https://github.com/RuiHirano/provider_gateway.git
+[submodule "agent"]
+	path = agent
+	url = https://github.com/RuiHirano/provider_agent.git
+[submodule "visualization"]
+	path = visualization
+	url = https://github.com/RuiHirano/provider_visualization.git
+[submodule "worker"]
+	path = worker
+	url = https://github.com/RuiHirano/provider_worker.git
+[submodule "master"]
+	path = master
+	url = https://github.com/RuiHirano/provider_master.git
